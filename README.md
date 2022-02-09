@@ -17,9 +17,13 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webpagevs]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />][webpagejava]
+[<img align="left" alt="Flutter" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" />][webpageflutter]
+[<img align="left" alt="Dart" width="26px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/04/dart-logo-768x768.png" />][webpagedart]
 
 </details>
 
 [website]: https://www.instagram.com/1solast/
 [webpagevs]: https://code.visualstudio.com
 [webpagejava]: https://www.java.com/tr/
+[webpageflutter]: https://flutter.dev
+[webpagedart]: https://dart.dev
