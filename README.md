@@ -19,6 +19,10 @@
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />][webpagejava]
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" />][webpageflutter]
 [<img align="left" alt="Dart" width="26px" src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" />][webpagedart]
+[<img align="left" alt="Eclipse" width="26px" src="https://brandeps.com/icon-download/E/Eclipse-icon-vector-02.svg" />][webpageeclipse]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.jim-nielsen.com/macos/512/github-desktop-2021-05-20.png" />][webpagegithub]
+[<img align="left" alt="Blender" width="26px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Blender-icon.png" />][webpageblender]
+[<img align="left" alt="Blender" width="26px" src="https://uxwing.com/android-studio-icon/" />][webpageandroidstudio]
 
 </details>
 
@@ -27,3 +31,7 @@
 [webpagejava]: https://www.java.com/tr/
 [webpageflutter]: https://flutter.dev
 [webpagedart]: https://dart.dev
+[webpageeclipse]: https://www.eclipse.org
+[webpageandroidstudio]: https://developer.android.com/studio?gclid=CjwKCAiA6Y2QBhAtEiwAGHybPaLKuNwUnp-Tb8rkB-tBSsDg-RE3-qtUH3nLPHELzn_N5XPFrxWjjBoCkxAQAvD_BwE&gclsrc=aw.ds
+[webpagegithub]: https://github.com
+[webpageblender]: https://www.blender.org
