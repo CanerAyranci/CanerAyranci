@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/6EV5WCkFfG8JgC4xKwtCGu)
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" alt="codeSTACKr Spotify Playing" width="26px" />](https://open.spotify.com/playlist/6EV5WCkFfG8JgC4xKwtCGu)
 
 <br />
 
