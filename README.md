@@ -1,6 +1,6 @@
 ### Hi there, I'm Caner - aka [Solast][website] 👋
 
-[![Website](https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png)](https://www.instagram.com/1solast/)
+[![Website](https://raw.githubusercontent.com/simple-icons/simple-icons/6eee268a486b5dd794975a93cadc5af45d780a0c/icons/instagram.svg)](https://www.instagram.com/1solast/)
 
 ## I'm studying Computer Engineering at Fırat University
 
