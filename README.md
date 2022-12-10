@@ -17,7 +17,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webpagevs]
 
-[<img align="left" alt="C#" width="26px" src="[https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190394.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-eduyx&psig=AOvVaw14JtyqlOwvsE9splp9nckA&ust=1670760703436000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCiwuOC7_sCFQAAAAAdAAAAABAE)" />][webpagec#]
+[<img align="left" alt="C#" width="26px" src="[https://uxwing.com/c-sharp-programming-language-icon/ />][webpagec#]
 
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />][webpagejava]
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" />][webpageflutter]
