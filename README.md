@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webpagevs]
+[<img align="left" alt="Visual Studio Code" width="26px" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fcdnlogo.com%2Flogo%2Fc_760.html&psig=AOvVaw3JfrKI3y3LEGEY1GGmiHbM&ust=1670760830486000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCC_p-D7_sCFQAAAAAdAAAAABAJ />][webpagevs]
 
 [<img align="left" alt="C#" width="26px" src="[https://uxwing.com/c-sharp-programming-language-icon/ />][webpagec#]
 
