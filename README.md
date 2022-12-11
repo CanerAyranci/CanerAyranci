@@ -21,6 +21,7 @@
 [<img align="left" alt="C#" width="26px" src="https://play-lh.googleusercontent.com/uGqP7F-E_eaEwTb3hMz63MWf0YKRSK6n9INBwibBSOrGDg6B3sd-ACuqNrR312ohdQ=w240-h480" />][webpagec#]
 [<img align="left" alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" />][webpagepython]
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" />][webpageflutter]
+[<img align="left" alt=".NET" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_plain_wordmark_logo_icon_146545.png" />][webpage.NET]
 [<img align="left" alt="Dart" width="26px" src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" />][webpagedart]
 [<img align="left" alt="Eclipse" width="26px" src="https://brandeps.com/icon-download/E/Eclipse-icon-vector-02.svg" />][webpageeclipse]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jim-nielsen.com/macos/512/github-desktop-2021-05-20.png" />][webpagegithub]
@@ -36,6 +37,7 @@
 [webpagec#]: https://learn.microsoft.com/en-us/dotnet/csharp/
 [webpagepython]: https://www.python.org
 [webpageflutter]: https://flutter.dev
+[webpage.NET]: https://learn.microsoft.com/tr-tr/dotnet/welcome
 [webpagedart]: https://dart.dev
 [webpageeclipse]: https://www.eclipse.org
 [webpageandroidstudio]: https://developer.android.com/studio?gclid=CjwKCAiA6Y2QBhAtEiwAGHybPaLKuNwUnp-Tb8rkB-tBSsDg-RE3-qtUH3nLPHELzn_N5XPFrxWjjBoCkxAQAvD_BwE&gclsrc=aw.ds
