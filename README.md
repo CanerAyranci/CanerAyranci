@@ -32,7 +32,7 @@
 [webpagevscode]: https://code.visualstudio.com
 [webpagevs]: https://visualstudio.microsoft.com
 [webpagejava]: https://www.java.com/tr/
-{webpagec#]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[webpagec#]: https://learn.microsoft.com/en-us/dotnet/csharp/
 [webpageflutter]: https://flutter.dev
 [webpagedart]: https://dart.dev
 [webpageeclipse]: https://www.eclipse.org
