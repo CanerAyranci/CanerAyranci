@@ -4,7 +4,7 @@
 
 - 🔭 I am into coding, 3D modelling and game making.
 - 🌱 I’m currently learning about desktop/mobile app and web development.
-- 🥅 2022 Goals: I am looking foward to learn more and more about Java and web development to start freelancing.
+- 🥅 2022 Goals: I am looking foward to learn more and more about OOP and web development to start freelancing.
 - ⚡ Fun fact: I love to draw and play guitar.
 
 ### Spotify Playing 🎧
