@@ -19,6 +19,7 @@
 [<img align="left" alt="Visual Studio" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_macos_bigsur_icon_189958.png" />][webpagevs]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />][webpagejava]
 [<img align="left" alt="C#" width="26px" src="https://play-lh.googleusercontent.com/uGqP7F-E_eaEwTb3hMz63MWf0YKRSK6n9INBwibBSOrGDg6B3sd-ACuqNrR312ohdQ=w240-h480" />][webpagec#]
+[<img align="left" alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" />][webpagepython]
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" />][webpageflutter]
 [<img align="left" alt="Dart" width="26px" src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" />][webpagedart]
 [<img align="left" alt="Eclipse" width="26px" src="https://brandeps.com/icon-download/E/Eclipse-icon-vector-02.svg" />][webpageeclipse]
@@ -33,6 +34,7 @@
 [webpagevs]: https://visualstudio.microsoft.com
 [webpagejava]: https://www.java.com/tr/
 [webpagec#]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[webpagepython]: https://www.python.org
 [webpageflutter]: https://flutter.dev
 [webpagedart]: https://dart.dev
 [webpageeclipse]: https://www.eclipse.org
